@@ -30,7 +30,7 @@ twitter_username: ""
 github_username:  ""
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
@@ -40,6 +40,9 @@ defaults:
       type: pages
     values:
       layout: "default"
+
+sass:
+  style: compact
 
 # Exclude from processing.
 # The following items will not be processed, by default.

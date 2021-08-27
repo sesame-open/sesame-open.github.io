@@ -1,0 +1,13 @@
+  
+// This is a partial.
+// It lies in <source>/_sass, just waiting to be imported.
+// It does not contain the YAML front matter and has no corresponding output file in the built site.
+
+
+body {
+    font-family: 'Hahmlet', serif; 
+    background-color: white; 
+    color: rgb(63, 63, 63);
+    display: flex; 
+    justify-content: center;
+}
